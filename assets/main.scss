@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.site-nav {
+  .page-link {
+    color: white;
+  }
+
+  @include media-query($on-palm) {
+    .page-link {
+      color: black;
+    }
+  }
+}
