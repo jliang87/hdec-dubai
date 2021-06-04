@@ -18,13 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HDEC Dubai IT Documentation
-email: liang_mj@hdec.com
+title: HDEC Dubai IT Page
 description: >- # this means to ignore newlines until "baseurl:"
   This is an accumulation of all things IT for HDEC Dubai.
 baseurl: "/hdec-dubai" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-author: 梁明杰 Jack
 
 # Build settings
 theme: minima
