@@ -14,7 +14,7 @@ If for any reason certain content from HDEC OA, or better named in English as Em
 - If changing the above doesn't work, log in VPN and retry. (The VPN password can be retrieved by VPN密码 in 云办公 mobile app.)
 >![]({{site.baseurl}}/assets/app.JPG){:style="width:250px"}
 
-- If any 表单(form) shows up erroneously or doesn't show data when opened up, contact the OA Support Expert listed in the Help page or dial the IT support hotline 27777 if not urgent. Note that if there's a blue ribbon shown on the top right corner of the form window, one can get the name of technical support point person specific to the form by clicking on the ribbon.
+- If any 表单(form) shows up erroneously or doesn't show data when opened up, contact the OA Support Expert listed in the Contact Us page or dial the IT support hotline 27777 if not urgent. Note that if there's a blue ribbon shown on the top right corner of the form window, one can get the name of technical support point person specific to the form by clicking on the ribbon.
 >![]({{site.baseurl}}/assets/form.JPG){:style="width:450px"}
 
 
