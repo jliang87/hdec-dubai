@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-permalink: /help/
+permalink: /contact/
 ---
 
 Whether you have questions, suggestions, revisions, or issues to report, please reach out to the following individuals
