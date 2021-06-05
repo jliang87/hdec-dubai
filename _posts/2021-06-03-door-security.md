@@ -15,7 +15,7 @@ To add the 15th floor and 27th floor devices, go to Device Management and perfor
 >![]({{site.baseurl}}/assets/door2.png){:style="width:800px"}
 
 
-After the devices are added, go to Persons and "Get From Devices" to import the existing personel records. After import, one can view and modify personel information `locally`. To change card number, a card reader is needed. Finger print and facial recognition can be done on the devices themselves. 
+After the devices are added, go to Persons and "Get From Devices" to import the existing personel records. After import, one can view and modify the personel information `locally`. To change card number, a card reader is needed. Finger print and facial recognition can be done on the devices themselves. 
 >![]({{site.baseurl}}/assets/door3.png){:style="width:800px"}
 >![]({{site.baseurl}}/assets/door4.png){:style="width:800px"}
 
